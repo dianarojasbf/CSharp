@@ -1,0 +1,2 @@
+Este txt se crea con el objetivo de probar que se hacen aportaciones a una libreria descargada previamente de GitHub, que se subiran para que sean revisadas y aprobadas para incorporarse a la rama master.
+Diana Rojas 07/08/2020
